@@ -8,6 +8,9 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-View_Work-black?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio.christech.co.ke)
 [![GitHub](https://img.shields.io/badge/GitHub-learninghub44-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/learninghub44)
 
+![Profile Views](https://komarev.com/ghpvc/?username=learninghub44&color=0A66C2&style=flat-square&label=Profile+Views)
+![Open to Work](https://img.shields.io/badge/Open_to-Freelance_%7C_Contract-success?style=flat-square)
+
 </div>
 
 ---
@@ -17,6 +20,12 @@
 I'm a Kenya-based full-stack developer and the founder of **Christech** — a software studio designing and shipping production web and mobile products for African markets. My work spans fintech, civic engagement, education technology, e-commerce, and hospitality, with a consistent focus on building tools that are genuinely useful to Kenyan businesses, schools, and communities.
 
 I work across the entire stack: from database schema design and API architecture through to polished, brand-driven frontends — and I ship. Most of what's linked below is live in production, serving real users on Railway, Vercel, and Cloudflare infrastructure, integrated with local payment rails like M-Pesa/Daraja and KYC providers like Didit.
+
+**What I bring to a team or client engagement:**
+- End-to-end ownership — schema design, API architecture, frontend, deployment, and post-launch fixes, not just one layer of the stack
+- A track record of shipping to production repeatedly, not just prototyping — most projects below are live and serving real users
+- Deep fluency in the specific integrations Kenyan products need: M-Pesa/Daraja, Didit/Persona KYC, PayHero — the unglamorous plumbing that makes local products actually work
+- Comfort moving across frameworks (Next.js, Django, SvelteKit, Laravel, Expo) rather than being locked to one stack, so the tool fits the problem instead of the other way around
 
 ---
 
@@ -45,6 +54,15 @@ I work across the entire stack: from database schema design and API architecture
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![M-Pesa](https://img.shields.io/badge/M--Pesa_Daraja-00A651?style=flat-square&logo=paypal&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+## ⚙️ How I Work
+
+- **Ship, then iterate** — I default to getting a working version live and deployed early, then hardening it, rather than over-engineering before there are real users.
+- **Own deployment, not just code** — I handle CI/CD, environment configuration, and production incident debugging myself (Railway, Docker, Vercel, Cloudflare), so handoffs don't stall on infrastructure.
+- **Security-conscious by habit** — credential rotation, RLS/multitenancy boundaries, and webhook signature verification (e.g. HMAC-SHA256 on KYC callbacks) are standard practice, not afterthoughts.
+- **Pragmatic about dependencies** — I regularly audit and strip unused or version-incompatible packages rather than letting dependency bloat accumulate.
 
 ---
 
@@ -134,6 +152,17 @@ Site for a Kenyan youth community organization — programs, donation tiers (M-P
 | **Smart POS** | Multi-tenant point-of-sale SaaS for Kenyan SMEs with M-Pesa/Daraja billing | Next.js · Laravel · Prisma |
 | **Comrade Duka** | Campus marketplace built for Kenyan university students | React · Vite · Socket.io |
 | **Sokoni KE** | Jumia-style marketplace with Persona KYC and real-time messaging | Next.js · Clerk · Prisma |
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![Chris's GitHub Stats](https://github-readme-stats.vercel.app/api?username=learninghub44&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=learninghub44&layout=compact&hide_border=true)
+
+</div>
 
 ---
 
