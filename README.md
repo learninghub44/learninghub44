@@ -12,7 +12,8 @@
 ![Open to Work](https://img.shields.io/badge/Open_to-Freelance_%7C_Contract-success?style=flat-square)
 
 </div>
-
+YOU CAN BUY ME A COFFE IF YOU LIKE MY CONTENT REPOSITORIES AND PROJECT AND FEEL FREE 
+YOU CAN USE THE LINK TO BUY ME A COFEE AND I WILL APPRECIATE   https://paystack.shop/pay/christech
 ---
 
 ## About Me
